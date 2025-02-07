@@ -20,7 +20,7 @@
    
 2. **SAE Extension**  
    [SAE Extension](https://chromewebstore.google.com/detail/sae-extension/ainhdckpnmekihjcnoebolnobohffidm)は学部一年において課せられるAcademic Express 3を効率的に処理できるブラウザ拡張機能です。 
-   <https://etwcq.github.io/saee/#installation>
+   <https://etwcq.github.io/saee>
 
 ---
 
